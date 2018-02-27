@@ -6,6 +6,7 @@ public class ArpithaTest {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is my First Push");
+		System.out.println("this is my second push");
 
 	}
 
